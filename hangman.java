@@ -78,7 +78,7 @@ public class hangman {
  
             if (phrase.isSolved()) {
                 solved = true;
-                System.out.println("Good job, you guys solved it!");
+                System.out.println("Good job, you solved it!");
             }
  
  
