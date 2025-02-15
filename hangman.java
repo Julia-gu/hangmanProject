@@ -45,7 +45,7 @@ public class hangman {
             System.out.println("Points: " + currentPlayer.getScore());
  
  
-            System.out.print("Guess a letter or type 'solve' to solve the word: ");
+            System.out.print("Guess a letter or type 'solve' to solve the phrase/word: ");
             String input = System.console().readLine().toUpperCase();
  
  
